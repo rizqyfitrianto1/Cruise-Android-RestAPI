@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alwis Cruise</string>
+    <string name="home">Home</string>
+    <string name="mybooking">My Booking</string>
+    <string name="account">Account</string>
+
+</resources>
